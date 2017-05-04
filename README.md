@@ -1,5 +1,5 @@
-# Hello-World
+## <font color=#0099ff>Hello-World</font> ##
 a new personal repository
 Hi Humans!  
 DingDing here, I like C/C#.  
-Lets begin coding.
+Now, lets begin coding.
